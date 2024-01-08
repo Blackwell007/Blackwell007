@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @blackwell_llc
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: Love travellingf, but have not left my home country before.
+- ⚡ Fun fact: Love travelling, but have not left my home country before.
 
 <!---
 Blackwell007/Blackwell007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
